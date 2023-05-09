@@ -1,0 +1,21 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+//botoes e navBar
+$success: rgb(54, 148, 68);
+
+//background
+$body-bg: #ffffff;
+
+// cor das letras
+$body-color: #000000;
+
+
+
+
+
+
+
+// esse import tem que ficar no final do código para funcionar
+@import "../node_modules/bootstrap/scss/bootstrap";
+//tem que intalar as dependencias do Sass no  node_modules
+//comando para instalar:  npm install sass

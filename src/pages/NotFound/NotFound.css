@@ -1,0 +1,18 @@
+.notfound {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.imagemnotfound {
+    width: 400px;
+}
+
+.colortext{
+    color: red;
+}
+
+
+
